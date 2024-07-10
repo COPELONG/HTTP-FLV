@@ -8,6 +8,8 @@
 
 然后源源不断读取flv数据并且循环发送
 
+![image-20240328173029946](https://my-figures.oss-cn-beijing.aliyuncs.com/Figures/image-20240328173029946.png)
+
 ```c++
 constexpr char http_headers[] = \
 	"HTTP/1.1 200 OK\r\n" \
